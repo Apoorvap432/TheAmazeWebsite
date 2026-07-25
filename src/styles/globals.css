@@ -1,0 +1,23 @@
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:
+    radial-gradient(circle at top,#2f2368 0%,#13142d 35%,#09091b 100%);
+
+    color:white;
+}
+
+section{
+
+    padding:90px 0;
+
+}
+
+.container{
+
+    width:90%;
+    max-width:1200px;
+
+    margin:auto;
+}

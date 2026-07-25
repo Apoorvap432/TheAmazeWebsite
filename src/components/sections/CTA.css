@@ -1,0 +1,35 @@
+.cta {
+  padding: 100px 0;
+}
+
+.cta-content {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 24px;
+  padding: 70px 40px;
+  backdrop-filter: blur(18px);
+}
+
+.cta-content h2 {
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+
+.cta-content p {
+  max-width: 700px;
+  margin: 0 auto 35px;
+}
+
+.cta-btn {
+  padding: 16px 40px;
+  background: linear-gradient(90deg, #6c63ff, #9b6dff);
+  color: white;
+  font-size: 18px;
+  border-radius: 12px;
+  transition: 0.3s;
+}
+
+.cta-btn:hover {
+  transform: translateY(-3px);
+}
